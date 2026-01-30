@@ -1,14 +1,18 @@
 ---
 title: "Van Clean and Reupholstery"
-date: 2026-01-30
-description: "We've been dreaming of building a van for 10 years. In winter 2025 we bought our van and began the build."
+date: 2024-12-17
+description: "Cleaning out the van and repholstery for the front seats."
 ---
 
 Since this was a used van (a Ford Transit 350 Extended, 2020) that had been used for cargo, the first step was to clean out the van, remove the headliner, and side liner. 
 
-![Original interior](/images/IMG_4002sm.jpg)
+![Original interior facing front](/images/IMG_4002sm.jpg)
+
+![Original interior facing rear](/images/IMG_4005sm.jpg)
 
 ![Cleaning interior and removing side liners](/images/IMG_4010sm.jpg)
+
+![Removed headliner](/images/IMG_4004sm.jpg)
 
 The rear door hinge also needed to be replaced due to wear and tear.
 
@@ -27,6 +31,8 @@ Additionally, the van had suffered some damage from the prior owner, requiring t
 We also needed to replace the spring in the passenger seat.
 
 ![Passenger's side seat frame with broken spring removed](/images/IMG_4016sm.jpg)
+
+![Passenger's side lower seat with fixed spring](/images/IMG_4040sm.jpg)
 
 ![Passenger's side seat top removed for replacement and cleaning](/images/IMG_4017sm.jpg)
 
