@@ -4,6 +4,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.ignores.add("PLAN.md");
 
+  eleventyConfig.addTransform("figure-captions", function (content, outputPath) {
+    if (outputPath && outputPath.endsWith(".html")) {
+      return content.replace(/<img([^>]*alt="[^"]*"[^>]*)>/g, (imgTag) => {
+        const altMatch = imgTag.match(/alt="([^"]*)"/);
+        const alt = altMatch ? altMatch[1] : "";
+        return "<figure>" + imgTag + "<figcaption>" + alt + "</figcaption></figure>";
+      });
+    }
+    return content;
+  });
+
   eleventyConfig.addFilter("date", function (date, format) {
     const d = date instanceof Date ? date : new Date(date);
     if (format === "YYYY-MM-DD") return d.toISOString().split("T")[0];
