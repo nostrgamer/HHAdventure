@@ -8,4 +8,4 @@ My wife and I have been dreaming of building a van for the last 10 years. Partia
 
 In the winter of 2025, we purchased our van and began the build.
 
-![Our van at the start of the build](/images/van-build/IMG_3999.jpg)
+![Our van at the start of the build](/images/IMG_3999.jpg)
