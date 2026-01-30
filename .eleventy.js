@@ -4,6 +4,15 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.ignores.add("PLAN.md");
 
+  eleventyConfig.addFilter("date", function (date, format) {
+    const d = date instanceof Date ? date : new Date(date);
+    if (format === "YYYY-MM-DD") return d.toISOString().split("T")[0];
+    if (format === "MMMM d, yyyy") {
+      return d.toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+    }
+    return d.toISOString();
+  });
+
   return {
     dir: {
       input: ".",
