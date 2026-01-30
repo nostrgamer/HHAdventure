@@ -6,6 +6,6 @@ description: "We've been dreaming of building a van for 10 years. In winter 2024
 
 My wife and I have been dreaming of building a van for the last 10 years. Partially a dream of adventure, partially a dream of building something extremely challenging (as van builds tend to be). For years we've also been talking with our son about future van travels and he is now excited to get on the road as well.
 
-In the winter of 2024, we purchased our van and began the build.
+In the winter of 2024, we purchased our van and began our preliminary build with the objective to have a basic build that would allow us to camp in the summer of 2025. 
 
 ![Our van at the start of the build](/images/IMG_3999sm.jpg)
