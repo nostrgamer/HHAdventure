@@ -1,6 +1,6 @@
 ---
 title: "Beginning"
-date: 2025-01-15
+date: 2026-01-30
 description: "We've been dreaming of building a van for 10 years. In winter 2025 we bought our van and began the build."
 ---
 
