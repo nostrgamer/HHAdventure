@@ -8,7 +8,7 @@ A simple, maintainable plan for a family van-build and travel blog hosted on Net
 
 - **Content:** Text and photos from your van build and travels.
 - **Design:** Clean and simple.
-- **Workflow:** Easy to add and update content over time—**editable in the browser** via Netlify CMS (no need to touch code or Git for day-to-day updates).
+- **Workflow:** Easy to add and update content over time—**edit in Git** (locally or on GitHub); Netlify rebuilds on push. See **EDITING.md** for step-by-step instructions.
 
 ---
 
@@ -97,58 +97,11 @@ First step was insulation...
 
 ---
 
-## 5. Netlify CMS – edit in the browser
+## 5. Editing content (Git; CMS optional)
 
-**Primary workflow:** You (and anyone you invite) add and edit content at **`yoursite.com/admin`**.
+**Recommended workflow:** Edit Markdown files in Git—either **on GitHub** (edit file → Commit) or **locally** (edit in your editor → `git add` / `commit` / `push`). Netlify rebuilds the site on every push. See **EDITING.md** in this repo for step-by-step instructions.
 
-- **Log in** with Netlify Identity (email invite or sign-up).
-- **Create or edit posts:** Fill in title, date, description, featured image, tags, and body (rich text or Markdown).
-- **Upload images** in the CMS; they’re saved into your repo (e.g. `public/images/`) and inserted into the post.
-- **Edit the About page** the same way, without touching code.
-- **Save** → CMS commits to Git → Netlify builds and deploys. The live site updates after the build.
-
-**What you need in the project:**
-
-- **`admin/index.html`** – Single HTML file that loads the Netlify CMS script (and optionally the Identity widget).
-- **`admin/config.yml`** – Defines:
-  - **Backend:** `git-gateway` (so Netlify Identity controls who can edit).
-  - **Media folder:** Where uploads go (e.g. `public/images/uploads` or per-post folders).
-  - **Collections:**
-    - **Posts** – Blog entries: title, date, description, image, body, optional tags.
-    - **Pages** – e.g. About (or a single “About” entry with body).
-  - **Editor:** Markdown or rich-text (WYSIWYG-style) for the body.
-
-**Fallback:** Content is still plain Markdown in the repo. You can edit files in Git/IDE if you prefer; the CMS and file-based content stay in sync.
-
-**Example `admin/config.yml` outline:**
-
-```yaml
-backend:
-  name: git-gateway
-  branch: main
-
-media_folder: "public/images/uploads"
-public_folder: "/images/uploads"
-
-collections:
-  - name: "posts"
-    label: "Posts"
-    folder: "posts"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - { label: Title, name: title, widget: string }
-      - { label: Date, name: date, widget: datetime }
-      - { label: Description, name: description, widget: text }
-      - { label: Featured image, name: image, widget: image }
-      - { label: Body, name: body, widget: markdown }
-  - name: "pages"
-    label: "Pages"
-    files:
-      - { label: About, name: about, file: "about.md", fields: [...] }
-```
-
-(Exact paths and field names should match your Eleventy source layout.)
+**Netlify CMS (optional, may be broken):** The admin at **`yoursite.com/admin`** relied on Netlify Identity, which has been deprecated. You can ignore the `admin/` folder and use the Git workflow above; the site works the same without it.
 
 ---
 
