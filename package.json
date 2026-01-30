@@ -1,0 +1,12 @@
+{
+  "name": "hh-adventure",
+  "version": "1.0.0",
+  "description": "Family van build and travel blog",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
