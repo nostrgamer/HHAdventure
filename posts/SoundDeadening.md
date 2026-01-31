@@ -10,8 +10,6 @@ Next up was finishing the clean out of the back of the van and rust treatment.
 
 ![Removing surface rust](/images/IMG_4139sm.jpg)
 
-![Cleaned out and rust treated](/images/IMG_4134sm.jpg)
-
 Then adding the sound deadening mats.
 
 ![Started with the ceiling](/images/IMG_4144sm.jpg)
