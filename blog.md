@@ -6,7 +6,7 @@ permalink: /posts/index.html
 
 # Blog
 
-All posts – van build and travels.
+All posts – van build and travels. (Full archive.)
 
 <ul class="post-list">
 {% for post in collections.posts | reverse %}

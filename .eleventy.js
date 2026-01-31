@@ -15,6 +15,8 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  eleventyConfig.addFilter("limit", (arr, n) => (arr || []).slice(0, n));
+
   eleventyConfig.addFilter("date", function (date, format) {
     const d = date instanceof Date ? date : new Date(date);
     if (format === "YYYY-MM-DD") return d.toISOString().split("T")[0];

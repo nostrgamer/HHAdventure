@@ -75,6 +75,19 @@ h2 { font-size: 1.35rem; }
   margin-top: 0.15rem;
 }
 
+.main .view-all {
+  margin-top: 1.5rem;
+}
+
+.main .view-all a {
+  color: #7eb8ff;
+  text-decoration: none;
+}
+
+.main .view-all a:hover {
+  text-decoration: underline;
+}
+
 .site-footer {
   margin-top: 3rem;
   padding: 1.5rem;
