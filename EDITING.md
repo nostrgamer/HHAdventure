@@ -63,8 +63,23 @@ Your story in Markdown here. You can use **bold**, *italic*, and [links](url).
 | Change the About page | `about.md` |
 | Add or edit a blog post | New or existing file in `posts/` (e.g. `posts/2025-02-trip.md`) |
 | Add a photo to a post | Upload image to `images/` (e.g. `images/uploads/photo.jpg`), then in the post write `![caption](/images/uploads/photo.jpg)` |
+| Add a video to a post | See **Videos** below. |
 
 The **Home** page and **Blog** list page are built automatically from the posts; you don’t edit those pages directly.
+
+---
+
+## Videos
+
+**Format:** Use **MP4 (H.264)** so video plays in all major browsers. **.MOV** often only works in Safari; convert .MOV to MP4 first (e.g. with [CloudConvert](https://cloudconvert.com/mov-to-mp4), [HandBrake](https://handbrake.fr/), or macOS QuickTime: File → Export As → 1080p).
+
+**Embed in a post:** Put the video file in `images/` (e.g. `images/clip.mp4`), then in your Markdown add this HTML on its own line:
+
+```html
+<video src="/images/clip.mp4" controls width="100%"></video>
+```
+
+The video will show with play/pause controls and scale to the content width.
 
 ---
 
