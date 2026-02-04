@@ -27,6 +27,6 @@ Funny story, the first time I set everything up and turned the ignition, the van
 Finally, I could test the system. With a full battery and some usage (from the fans), the draw from the alternator would match the demand from the battery (after a brief vehicle start up phase). I then drained the house battery overnight to test how much the alternator could provide, which is about 800 watts peak. This allows us to charge a nearly empty battery to full with just a couple hours of driving (the Goal Zero holds about 150 amp hours).
 
 ![First test of the Yeti Link](/images/IMG_4580.jpg)
-![Testing Yei Link on an empty battery](/images/IMG_4591.jpg)
+![Testing Yeti Link on an empty battery](/images/IMG_4589.jpg)
 
 With both the DC to DC charger and 350W of solar, we should have sufficient power generation for all of our van's needs, since we primarily utilize DC devices. Should we need some additional power in the future, I might consider one more brief case style solar panel (which can be installed in the spare 8mm port on the Yeti). 
