@@ -4,7 +4,7 @@ date: 2026-04-16
 description: "Installing Havelock Wool insulation in the van."
 ---
 
-One of the components my wife had been waiting for over a year to have in the van was insulation. This was a much-needed upgrade from the big temperature swings and that baked (or frozen) feeling of being inside an uninsulated tent or vehicle.
+One of the components my wife had been waiting for over a year to have in the van was insulation. This was a much-needed upgrade for the big temperature swings and reducing that baked (or frozen) feeling of being inside an uninsulated tent or vehicle.
 
 For the insulation, we chose Havelock Wool and picked it up from their location in Reno, Nevada.
 
