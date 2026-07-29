@@ -12,8 +12,9 @@ A quick reference for the current build.
 
 - 2020 Ford Transit 350 Extended cargo van
 - Family camper build
-- Phase 1 goal: basic camping setup for summer 2025
-- Phase 2 goal: better sleeping, storage, insulation, power, and kitchen function
+- Phase 1 basic camping setup completed for summer 2025
+- Phase 2 has added better sleeping, storage, insulation, power, lighting, and interior finishes
+- Current build focus: remaining walls, a fold-down table, permanent kitchen, and final kitchen electrical
 
 ## Sleeping and layout
 
@@ -28,18 +29,20 @@ A quick reference for the current build.
 - 350W roof solar, wired in parallel
 - Yeti Link DC-to-DC charging from the van alternator
 - DC fuse panel and lighting circuits
-- Dimmable ceiling lights
+- Twelve dimmable LED ceiling lights
+- Individual reading lights
 - USB power in the kitchen area
-- Future individual reading lights planned, each with its own USB port
 
-## Exterior and structure
+## Exterior, structure, and interior finishes
 
 - Custom roof rack built from uni-strut
 - Two 175W solar panels
 - Roof fans
 - Rear van capsules with windows
 - Havelock Wool insulation
-- Birch plywood cleating for future walls
+- Baltic birch plywood ceiling and upper wall panels
+- L-track along the ceiling and upper walls for mounting and cabinet support
+- Plastic ceiling-seam trim and an adhesive-backed rubber gasket at the ceiling-to-wall joint
 
 ## Kitchen and storage
 
@@ -48,6 +51,13 @@ A quick reference for the current build.
 - Kitchen supply drawer added
 - Toilet cabinet door added
 - Rear cargo door pockets, side door pocket, and headliner storage added
+- Zippered upper cabinets added for clothing and smaller camping gear
+
+## Cab and cameras
+
+- Dudu 7 10.5-inch radio
+- Replacement rear camera in the original upper rear-light housing
+- Front and side cameras installed for the four-camera, 360-degree system
 
 ## Build style
 
