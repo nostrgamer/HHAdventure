@@ -34,10 +34,17 @@ This is the build timeline for our Ford Transit van, from the first clean-out th
 - [Insulation](/posts/Insulation/) - adding Havelock Wool
 - [Electrical Part 2](/posts/ElectricalPart2/) - installing useful lights and USB power
 - [Headliner, Pockets, and Fridge Cabinet](/posts/HeadlinerPocketsFridgeCabinet/) - adding storage and a secure fridge cabinet
+- [Wire Harness](/posts/WireHarness/) - relocating the factory wiring before the ceiling and walls went in
+- [Ceiling Framing](/posts/CeilingFraming/) - building the structure for the plywood ceiling
+- [New Radio](/posts/NewRadio/) - replacing the radio and adding a four-camera system
+- [Installing the Ceiling](/posts/Ceiling/) - adding L-track, Baltic birch panels, lights, trim, and fan covers
+- [Upper Walls and Cabinets](/posts/UpperWallsAndCabinets/) - finishing the upper walls and adding organized storage
 
 ## Current direction
 
-The van is now moving from systems and rough structure into usable interior storage, kitchen improvements, and finishing work.
+The ceiling, upper walls, lighting, and upper cabinets are now installed. That work transformed the van from a collection of exposed systems and framing into a much more finished and usable interior.
+
+We are still using the van between projects, which lets us test each addition before deciding what to build next. The current focus is on the remaining interior finish work, a fold-down table, the permanent kitchen, and final kitchen electrical.
 
 ## What's next
 
@@ -45,12 +52,11 @@ For the rest of this summer, the plan is to keep using the van while we keep bui
 
 The next build priorities are:
 
-- Ceiling and walls, including a fold-down table
-- Remaining insulation
+- Remaining wall work and a fold-down table
 - A permanent wood kitchen designed for the van, with more drawers, cabinets, and a nook for spices
-- Final electrical, including kitchen lights, reading lights, and a kitchen GFCI plug
+- Final electrical, including kitchen lights and a kitchen GFCI plug
 
-We imagine this work will happen intermittently through the summer and into the fall. The walls and ceiling are still some of the most challenging parts of the build, so we are trying to take our time and do them right.
+We imagine this work will happen intermittently through the summer and into the fall. As always, we are trying to take our time, use the van between projects, and let that experience guide the final design.
 
 Tentatively, we are thinking about taking our first real one-week trips next spring, likely within a few hundred miles of Sacramento. Those trips will be the first bigger test of the water systems, electrical system, refrigerator, and how well our supplies work for a longer stretch.
 
