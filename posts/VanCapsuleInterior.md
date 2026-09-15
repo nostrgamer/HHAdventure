@@ -55,13 +55,13 @@ Next up, I reinforced the lower wall cladding that originally was 1/2" plywood, 
 
 Where I have my main wall stringers is on a different plane than the window box frame (shown by the red arrows). You can see the various differing planes shown with the blue arrows. This meant that I would need to build my window box into the van to conform to the plane of the walls. This was required because the original metal van walls are joined by metal columns along key structural parts of the van wall. Therefore, the wooden interior walls I would construct need to come into the van to meet these columns. I repeated this process on the other side of the van, and below you can see I built 3/4" stub outs from the window boxes which conform to the same plane as the vertical stringers as well as a horizontal stringer I adhered to the upper horizontal wall stringer. This would eventually allow me to place one piece of 1/4" plywood across all of these areas and have it attach on the same plane.
 
-![3/4&quot; stub outs conforming to the stringer plane](/images/Van%20Capsule%20Interior/IMG_0538.jpg)
+![3/4-inch stub outs conforming to the stringer plane](/images/Van%20Capsule%20Interior/IMG_0538.jpg)
 
 Next, I cut out a 1/4" piece of plywood that would serve as the window cut out, covering both the fiberglass, as well as squaring off the van capsule so that the vertical and horizontal skew did not interfere with a 90 degree joint of the side of my window box. Additionally, it would allow me to insulate behind the panel, making the cabin more comfortable. My wife found the design for the window cutout online, which I printed onto several standard pieces of paper and then cut to size. This provided a stencil I could use to cut out the window from the 1/4" plywood.
 
 ![Paper stencil for the window cutout](/images/Van%20Capsule%20Interior/IMG_0510.jpg)
 
-![Cutting the window from the 1/4&quot; plywood](/images/Van%20Capsule%20Interior/IMG_0560.jpg)
+![Cutting the window from the 1/4-inch plywood](/images/Van%20Capsule%20Interior/IMG_0560.jpg)
 
 Fitting this into the capsule then allowed me to build the walls of the window box as well as the lower and upper sill, each of which was cut from 1/2" plywood.
 
@@ -69,23 +69,23 @@ Fitting this into the capsule then allowed me to build the walls of the window b
 
 ![Building the walls of the window box](/images/Van%20Capsule%20Interior/IMG_0564.jpg)
 
-![Lower and upper sills from 1/2&quot; plywood](/images/Van%20Capsule%20Interior/IMG_0515.jpg)
+![Lower and upper sills from 1/2-inch plywood](/images/Van%20Capsule%20Interior/IMG_0515.jpg)
 
 On top of this plywood, I cut out 1/4" plywood, which would be tacked on top. Each of these pieces had to be labeled, including their orientation in the van so that they could easily be removed for upholstery and then reinstalled correctly.
 
-![1/4&quot; pieces tacked on top](/images/Van%20Capsule%20Interior/IMG_0516.jpg)
+![1/4-inch pieces tacked on top](/images/Van%20Capsule%20Interior/IMG_0516.jpg)
 
 ![Every piece labeled with its orientation](/images/Van%20Capsule%20Interior/IMG_0571.jpg)
 
 The 1/2" plywood walls, and lower and upper sill did not need to be as precisely cut because they would be covered with 1/4" plywood. The 1/4" plywood was scribed more carefully using a compass to get the exact fit.
 
-![Scribing the 1/4&quot; plywood with a compass](/images/Van%20Capsule%20Interior/IMG_0568.jpg)
+![Scribing the 1/4-inch plywood with a compass](/images/Van%20Capsule%20Interior/IMG_0568.jpg)
 
 ![Exact fit after scribing](/images/Van%20Capsule%20Interior/IMG_0519.jpg)
 
 These 1/4" pieces were designed to be covered with fabric later on and were therefore cut about 1/16" short on all sides to allow for covering, while not overlapping each other or the exterior wall. The blue arrows show the 1/4" cover pieces, the orange arrow shows the 1/2" wall pieces, and the red arrow shows the underlying structural 3/4" wall piece.
 
-![Blue arrows: 1/4&quot; covers. Orange: 1/2&quot; wall. Red: 3/4&quot; structural piece](/images/Van%20Capsule%20Interior/IMG_0521.jpg)
+![Blue arrows: 1/4-inch covers. Orange: 1/2-inch wall. Red: 3/4-inch structural piece](/images/Van%20Capsule%20Interior/IMG_0521.jpg)
 
 Next up was the most intimidating part of the build — routing the 1/4" exterior wall panel so that the interior window cutout would precisely track what I had built thus far. Here is a shot doing some test runs with the router.
 
@@ -93,7 +93,7 @@ Next up was the most intimidating part of the build — routing the 1/4" exterio
 
 Additionally, it was at this time that I learned about the various types of router bits that are available and what I needed was a 1/4" laminate/flush trim routing bit.
 
-![1/4&quot; laminate/flush trim bit](/images/Van%20Capsule%20Interior/IMG_0524.jpg)
+![1/4-inch laminate/flush trim bit](/images/Van%20Capsule%20Interior/IMG_0524.jpg)
 
 Of course routing makes quite a considerable mess, so I prepared the van with a drop cloth before I got started.
 
@@ -135,7 +135,7 @@ Each of the pieces was tacked up using 5/8" brad nails and this image shows me f
 
 Finally, I added a 3/4" support board below the lower sill to provide additional rigidity to the window box.
 
-![3/4&quot; support board below the lower sill](/images/Van%20Capsule%20Interior/IMG_0557.jpg)
+![3/4-inch support board below the lower sill](/images/Van%20Capsule%20Interior/IMG_0557.jpg)
 
 Another task was to frame up an electrical outlet box for the rear 110v outlet and cut a hole in the wall panel.
 
@@ -145,11 +145,11 @@ Another task was to frame up an electrical outlet box for the rear 110v outlet a
 
 Then I repeated the entire process for the other side of the van.
 
-![Passenger side: framing the 1/2&quot; sides and sills](/images/Van%20Capsule%20Interior/IMG_0565.jpg)
+![Passenger side: framing the 1/2-inch sides and sills](/images/Van%20Capsule%20Interior/IMG_0565.jpg)
 
-![Adding the 1/4&quot; top and bottom sills](/images/Van%20Capsule%20Interior/IMG_0570.jpg)
+![Adding the 1/4-inch top and bottom sills](/images/Van%20Capsule%20Interior/IMG_0570.jpg)
 
-![All 1/4&quot; pieces dry fit for routing](/images/Van%20Capsule%20Interior/IMG_0572.jpg)
+![All 1/4-inch pieces dry fit for routing](/images/Van%20Capsule%20Interior/IMG_0572.jpg)
 
 ![Passenger wall panel routed out](/images/Van%20Capsule%20Interior/IMG_0573.jpg)
 
@@ -175,11 +175,11 @@ One of the final components was to build a frame piece that went across the van 
 
 The window box bottom was cut 5" from the top of the bed slats which meant that our 5" full size foam mattress fit perfectly.
 
-![5&quot; mattress fitting perfectly in the window box](/images/Van%20Capsule%20Interior/IMG_0591.jpg)
+![5-inch mattress fitting perfectly in the window box](/images/Van%20Capsule%20Interior/IMG_0591.jpg)
 
 The final product, shown here includes the 3" topper (which was cut out in each of the 4 corners) to prevent bunching.
 
-![Final product with 3&quot; topper](/images/Van%20Capsule%20Interior/IMG_0592.jpg)
+![Final product with 3-inch topper](/images/Van%20Capsule%20Interior/IMG_0592.jpg)
 
 While this has been quite a long part of the van build, I'm very proud of the end result as it demonstrates how much I've learned working with wood this year. I'm looking forward to the next project, which will be a new kitchen.
 
