@@ -39,12 +39,13 @@ This is the build timeline for our Ford Transit van, from the first clean-out th
 - [New Radio](/posts/NewRadio/) - replacing the radio and adding a four-camera system
 - [Installing the Ceiling](/posts/Ceiling/) - adding L-track, Baltic birch panels, lights, trim, and fan covers
 - [Upper Walls and Cabinets](/posts/UpperWallsAndCabinets/) - finishing the upper walls and adding organized storage
+- [Van Capsule Interior](/posts/VanCapsuleInterior/) - trimming out the window capsules with custom boxes, panels, and upholstery
 
 ## Current direction
 
-The ceiling, upper walls, lighting, and upper cabinets are now installed. That work transformed the van from a collection of exposed systems and framing into a much more finished and usable interior.
+The ceiling, upper walls, lighting, upper cabinets, and capsule window trim are now installed. That work transformed the van from a collection of exposed systems and framing into a much more finished and usable interior.
 
-We are still using the van between projects, which lets us test each addition before deciding what to build next. The current focus is on the remaining interior finish work, a fold-down table, the permanent kitchen, and final kitchen electrical.
+We are still using the van between projects, which lets us test each addition before deciding what to build next. The current focus is on the permanent kitchen, a fold-down table, and final kitchen electrical.
 
 ## What's next
 
