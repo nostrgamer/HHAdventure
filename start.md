@@ -40,8 +40,7 @@ This is the build timeline for our Ford Transit van, from the first clean-out th
 - [Installing the Ceiling](/posts/Ceiling/) - adding L-track, Baltic birch panels, lights, trim, and fan covers
 - [Upper Walls and Cabinets](/posts/UpperWallsAndCabinets/) - finishing the upper walls and adding organized storage
 - [Van Capsule Interior](/posts/VanCapsuleInterior/) - trimming out the window capsules with custom boxes, panels, and upholstery
-
-- [Driver Side Wall](/posts/DriverSideWall/) - building birch shelving, adding hand-knotted shelf nets, and fitting a butcher-block table that stows against the wall
+- [Driver Side Wall](/posts/DriverSideWall/) - birch shelving, hand-knotted nets, and a stowable table
 
 ## Current direction
 

@@ -53,7 +53,6 @@ A quick reference for the current build.
 - Toilet cabinet door added
 - Rear cargo door pockets, side door pocket, and headliner storage added
 - Zippered upper cabinets added for clothing and smaller camping gear
-
 - Custom birch shelving along the driver's side, with hand-knotted shelf nets and a bottle holder
 - Butcher-block table with collapsible legs and French-cleat wall mounts for use and stowage
 
